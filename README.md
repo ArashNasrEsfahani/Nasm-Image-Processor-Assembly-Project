@@ -42,10 +42,10 @@ A powerful image processing tool implemented in NASM assembly language, demonstr
 1. **Convert Image to Text**
 ```bash
 # For color images
-python src/python/color_to_text.py input_image.jpg
+python python/color_to_text.py input_image.jpg
 
 # For B&W images
-python src/python/bw_to_text.py input_image.jpg
+python python/bw_to_text.py input_image.jpg
 ```
 
 2. **Process Image**
@@ -56,10 +56,10 @@ python src/python/bw_to_text.py input_image.jpg
 3. **Convert Back to Image**
 ```bash
 # For color images
-python src/python/text_to_color.py
+python python/text_to_color.py
 
 # For B&W images
-python src/python/text_to_bw.py
+python python/text_to_bw.py
 ```
 
 ## 🎨 Image Processing Operations
@@ -97,6 +97,3 @@ python src/python/text_to_bw.py
   ├── text_to_bw.py         # Text to B&W image converter
   ├── color_to_text.py      # Color image to text converter
   └── text_to_color.py      # Text to color image converter
-│
-├── examples/
-```
