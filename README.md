@@ -1,6 +1,6 @@
 # Nasm-Image-Processor-Assembly-Project
 
-A powerful image processing tool implemented in NASM assembly language, demonstrating high-performance image manipulation at the lowest level.
+An image processing tool implemented in NASM assembly language, demonstrating high-performance image manipulation at the lowest level.
 
 ![NASM](https://img.shields.io/badge/NASM-x86__64-red.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
